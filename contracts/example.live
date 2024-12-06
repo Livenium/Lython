@@ -1,0 +1,7 @@
+
+// Example smart contract
+contract Example {
+    function greet() public returns (string) {
+        return "Hello, Livenium ⊽!";
+    }
+}

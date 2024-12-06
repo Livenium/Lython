@@ -1,0 +1,7 @@
+
+// Staking transaction details
+transaction Stake {
+    function stake(uint256 amount) public {
+        // Staking logic
+    }
+}

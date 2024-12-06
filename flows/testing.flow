@@ -1,0 +1,7 @@
+
+// Workflow for testing contracts
+flow Test {
+    function test() public {
+        // Testing logic
+    }
+}

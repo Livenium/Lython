@@ -1,0 +1,7 @@
+
+// Fund transfer logic
+transaction Send {
+    function transfer(address to, uint256 amount) public {
+        // Transfer logic
+    }
+}
